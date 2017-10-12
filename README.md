@@ -7,3 +7,5 @@ see lecture by  Nick Montfort https://youtu.be/34CXQr5OLas
 Daniel Shiffman https://youtu.be/bEyTZ5ZZxZs
 
 This is my p5js version
+
+You will need the p5 library to run see https://p5js.org/download/ or use a cdn.
